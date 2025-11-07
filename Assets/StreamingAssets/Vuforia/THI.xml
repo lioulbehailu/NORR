@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="visitfinlad" size="0.200000 0.284155" />
+    <ImageTarget name="kayake" size="0.200000 0.307137" />
+    <ImageTarget name="Norrcoverpage" size="0.200000 0.266320" />
+  </Tracking>
+</QCARConfig>
